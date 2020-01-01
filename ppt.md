@@ -36,7 +36,7 @@ Three main categories
 3. No conflicts in scheduling for team leaders
 4. Proximity in seating
 
-New metric
+New metrics
 1. Non go-to supervisor tracks when and why were they disturbed, by advisor or colleague or manager
 2. Go-to supervisor tracks why their station was unavailable
 
@@ -61,7 +61,7 @@ New metric
 3. Advisors are collaborative and ready to speak up
 4. Structure for team briefing
 
-New metric
+New metrics
 1. How many of us attend the full team briefing
 2. How participatory are briefings
 3. How useful are briefings
@@ -89,7 +89,7 @@ New metric
 4. Masterlist of conversational microskills from AWESOME framework
 5. Structure for coaching session
 
-New metric
+New metrics
 1. Was the session interrupted
 2. How many microskills were dicussed
 3. How many microskills were practiced
