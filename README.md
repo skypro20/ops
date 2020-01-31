@@ -35,10 +35,10 @@
 
 Today's Discussion
 
-###Problem 
+### Problem 
 Ideas are not good enough because of lack of business knowledge. Implementation is not effective due to lack of perspective
 
-###Solution
+### Solution
 Doing a mini-project with auditing or quality teams to gain some business knowledge and perspective. Working on expanding the coaching framework with people working on it.
 Coming in by 12pm or 1pm to work on these mini-projects for a month's timeline to see how it goes.
 Are there any pressing areas that you would like me to devote my time to?
