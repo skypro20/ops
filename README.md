@@ -39,6 +39,16 @@ Today's Discussion
 Ideas are not good enough because of lack of business knowledge. Implementation is not effective due to lack of perspective
 
 ### Solution
-Doing a mini-project with auditing or quality teams to gain some business knowledge and perspective. Working on expanding the coaching framework with people working on it.
+Doing a mini-project with auditing or quality or data reporting teams to gain some business knowledge and perspective. Working on expanding the coaching framework with people working on it.
 Coming in by 12pm or 1pm to work on these mini-projects for a month's timeline to see how it goes.
 Are there any pressing areas that you would like me to devote my time to?
+
+
+-----------
+
+## Customer Success Specialist (within the team or span)
+
+1. Listen to call recordings and review chat and call transcripts to identify themes in the customer experience and analyze points of friction related to the customer journey
+2. Use and develop metrics dashboards for individuals and teams. Use this data for team briefing and coaching sessions
+3. Analyze large qualitative datasets and summarize key insights into themes required
+
