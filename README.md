@@ -51,4 +51,5 @@ Are there any pressing areas that you would like me to devote my time to?
 1. Listen to call recordings and review chat and call transcripts to identify themes in the customer experience and analyze points of friction related to the customer journey
 2. Use and develop metrics dashboards for individuals and teams. Use this data for team briefing and coaching sessions
 3. Analyze large qualitative datasets and summarize key insights into themes required
+4. Experiment different types of data reporting, to make the data more accessible to teams and individuals
 
