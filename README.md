@@ -40,8 +40,10 @@ Ideas are not good enough because of lack of business knowledge. Implementation 
 ### Solution
 1. Doing a mini-project with auditing or quality or data reporting teams to gain some business knowledge and perspective. 
 2. Working on expanding the coaching framework with people working on it.
-3. Coming in by 12pm or 1pm to work on these mini-projects for a month's timeline to see how it goes.
-4. Are there any pressing areas that you would like me to devote my time to?
+3. Experimenting with different types of data reporting to make them more useful to individuals and teams, to reduce call monitoring instances. (I have recently learnt how to use pivot tables and slicer in Excel).
+4. Creating masterlist of conversational microskills from AWESOME framework
+4. Coming in by 12pm or 1pm to work on these mini-projects for a month's timeline to see how it goes.
+5. Are there any pressing areas that you would like me to devote my time to?
 
 
 -----------
@@ -52,7 +54,7 @@ Ideas are not good enough because of lack of business knowledge. Implementation 
 1. Listen to call recordings and review notes to identify themes in the customer experience and analyze points of friction related to the customer journey
 2. Use and develop metrics dashboards for individuals and teams. Use this data for team briefings and coaching sessions. 
 3. Analyze large qualitative datasets and summarize key insights into themes required.
-4. Experiment different types of data reporting, to make the data more accessible to teams and individuals.
+4. Experiment with different types of data reporting, to make the data more accessible to teams and individuals.
 
 
 
