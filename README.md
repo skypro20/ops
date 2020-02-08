@@ -39,12 +39,14 @@ Ideas are not good enough because of lack of business knowledge. Implementation 
 
 ### Solution
 1. Doing a mini-project with auditing or quality or data reporting teams to gain some business knowledge and perspective. 
-2. Working on expanding the coaching framework with people working on it.
-3. Experimenting with different types of data reporting to make them more useful to individuals and teams, to reduce call monitoring instances. (I have recently learnt how to use pivot tables and slicer in Excel).
-4. Creating masterlist of conversational microskills from AWESOME framework
-4. Coming in by 12pm or 1pm to work on these mini-projects for a month's timeline to see how it goes.
-5. Are there any pressing areas that you would like me to devote my time to?
+2. Coming in by 12pm or 1pm to work on these mini-projects for a month's timeline to see how it goes.
+3. Are there any pressing areas that you would like me to devote my time to?
 
+### Possible mini-projects
+1. Working on expanding the coaching framework with people working on it.
+2. Experimenting with different types of data reporting to make them more useful to individuals and teams, to reduce call monitoring instances. (I have recently learnt how to use pivot tables and slicer in Excel).
+3. Creating masterlist of conversational microskills from AWESOME framework.
+4. Working on data led approach to reduce repeats.
 
 -----------
 
