@@ -2,24 +2,27 @@
 - figure out ways in to help my customers better 
 - come up ideas that are useful to you (for process operations) through data wrangling and business knowledge
 
-## How to survive automation
-- two minute video https://youtu.be/O5JSZ2U-51g
-- through better governance and upskilling of advisors
 
-## Future of Governance 
+## How to survive automation
+- Through better governance and upskilling of advisors
+
+[![Future of Automation ](http://img.youtube.com/vi/O5JSZ2U-51g/0.jpg)](http://www.youtube.com/watch?v=O5JSZ2U-51g)
+
+
+## [Future of Governance](../governance_future.md) 
 Four main concepts are
 - Nurturing right habits
 - Upskilling
 - Compliance through Checklists
 - Employee Beliefs and Culture
 
-## Coaching Framework 
+## [Coaching Framework](../coaching_framework.md)
 Three primary concepts for coaching framework are - 
 - Ownership of Performance
 - Microskills Profiling
 - Team Building
 
-## Advisor support
+## [Advisor support](../advisor_support_ppt.md)
 *already discussed* 
 
 Three main categories are - 
