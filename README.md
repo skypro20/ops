@@ -9,20 +9,20 @@
 [![Future of Automation ](http://img.youtube.com/vi/O5JSZ2U-51g/0.jpg)](http://www.youtube.com/watch?v=O5JSZ2U-51g)
 
 
-## [Future of Governance](../governance_future.md) 
+## [Future of Governance](../master/governance_future.md) 
 Four main concepts are
 - Nurturing right habits
 - Upskilling
 - Compliance through Checklists
 - Employee Beliefs and Culture
 
-## [Coaching Framework](../coaching_framework.md)
+## [Coaching Framework](../master/coaching_framework.md)
 Three primary concepts for coaching framework are - 
 - Ownership of Performance
 - Microskills Profiling
 - Team Building
 
-## [Advisor support](../advisor_support_ppt.md)
+## [Advisor support](../master/advisor_support_ppt.md)
 *already discussed* 
 
 Three main categories are - 
