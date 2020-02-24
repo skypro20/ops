@@ -1,6 +1,6 @@
 ## Aims
-- figure out ways in to help my customers better 
-- come up ideas that are useful to you (for process operations) through data wrangling and business knowledge
+- Figure out ways to help & delight Customers 
+- Come up with ideas that are useful to you (for process operations) through data wrangling and business knowledge
 
 
 ## How to survive automation
