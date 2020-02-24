@@ -14,7 +14,7 @@ Keep in mind that each intervention is
 * direcly benefits them in that moment
 * corresponds to what they want and need
 * and, the observation of a metric should not change the observation
-* and achives long term results, measured over at least months
+* and achieves long term results, measured over at least 6 months
 
 
 ## Nurturing right habits
