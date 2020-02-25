@@ -7,41 +7,34 @@ Four main concepts are
 3. Compliance through Checklists
 4. Employee Beliefs and Culture
 
+Keep in mind, 
 
-Keep in mind that each intervention is
-
-* super easy for them to do
-* direcly benefits them in that moment
-* corresponds to what they want and need
-* and, the observation of a metric should not change the observation
+* the observation of a metric should not change the observation
 * and achieves long term results, measured over at least 6 months
 
 
 ## Nurturing right habits
-Externally Driven by Hook Model:
-1. Trigger
-2. Action
-3. Variable
-4. Investment
+Almost everything we do is a habit. Which habits are right for my team to meet the metrics?
 
-Internally Driven by Atomic Habits:
-1. Make it Obvious
-2. Make it Attractive
-3. Make it Easy
-4. Make it Satisfying
+How are habits created? 
+Externally Driven with Hook Model, using a feedback loop of Trigger, Action, Variable, Investment
+or
+Internally Driven like Tinyc Habits by making Obvious, Attractive, Easy, Satisfying
+
+## Compliance through Checklists 
+1. Simplying complex situations throguh checklists - cheatsheets not spoonfeeding
+2. Stories from Aviation and Hospital (The Checklist Manifesto of How to get things done)
 
 
 ## Upskilling
-1. Empthay
-2. Emotoional Intelligence
-3. Conflict Resolution (Objecttion Handling)
-
-## Compliance through Checklists 
-1. Simplying complex situations throguh checklist
-2. Stories from Aviation and Hospital
+1. Empathy
+2. Emotional Intelligence
+3. Conflict Resolution and Objection Handling
 
 ## Employee Beliefs and Culture
-* feeling valued. trust. recognition. objection handling ninjas within the team. buddy system. 
-* questions like "how can i help you do better" and "how can you help me manage your performance better". 
-* positive feedback in public and negative feedback in private. 
-* experimentation and mini projects within the team.
+1. When do we spend time as team? Do I feel like a part of team?
+2. Using coaching and team time for team building
+3. Do I Feel valued as an employee? Does my team leader trust me?
+4. Questions like "how can i help you do better" and "how can you help me manage your performance better". 
+5. Positive feedback in public and negative feedback in private. 
+6. Experimentation and mini projects within the team.
