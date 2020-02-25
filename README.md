@@ -1,4 +1,4 @@
-## Aims
+## Today's Agenda
 1. Figure out ways to help & delight Customers 
 2. Come up with ideas that are useful to you (for process operations) through data wrangling and business knowledge
 
@@ -9,21 +9,18 @@
 
 
 ## [Future of Governance](../master/governance_future.md) 
-Four main concepts are
 1. Nurturing right habits
 2. Upskilling
 3. Compliance through Checklists
 4. Employee Beliefs and Culture
 
 ## [Coaching Framework](../master/coaching_framework.md)
-Three primary concepts for coaching framework are - 
 1. Ownership of Performance
 2. Microskills Profiling
 3. Team Building
 
 ## [Advisor Support](../master/advisor_support_ppt.md)
 (*already discussed*)
-Three main categories are - 
 1. Go-to supervisor
 2. Structured team briefings
 3. Structured coaching systems
