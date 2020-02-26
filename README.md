@@ -5,7 +5,7 @@
 
 ## What Auto..?
 
-[![Future of Automation ](http://img.youtube.com/vi/O5JSZ2U-51g/0.jpg)](https://youtu.be/CKNQqSCpIsw)
+[![Future of Automation ](http://img.youtube.com/vi/CKNQqSCpIsw/0.jpg)](https://youtu.be/CKNQqSCpIsw)
 
 
 ## [Future of Governance](../master/governance_future.md) 
