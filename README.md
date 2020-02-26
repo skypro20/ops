@@ -10,7 +10,7 @@
 
 ## [Future of Governance](../master/governance_future.md) 
 1. Nurturing right habits
-2. Upskilling
+2. Upskilling of advisors
 3. Compliance through Checklists
 4. Employee Beliefs and Culture
 
