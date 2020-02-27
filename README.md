@@ -1,5 +1,5 @@
 ## Today's Agenda
-1. Figure out ways to help & delight Customers 
+1. Figure out ways to help & delight customers 
 2. Come up with ideas that are useful to you (for process operations) through data wrangling and business knowledge
 
 
