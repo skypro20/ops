@@ -8,6 +8,14 @@
 [![Future of Automation ](http://img.youtube.com/vi/CKNQqSCpIsw/0.jpg)](https://youtu.be/CKNQqSCpIsw)
 
 
+
+## [Data and Governance](../master/data_governance.md)
+![image](../master/10.png)
+
+
+
+
+
 ## [Future of Governance](../master/governance_future.md) 
 1. Nurturing right habits
 2. Upskilling of advisors
