@@ -9,11 +9,32 @@
 
 
 
-## [Data and Governance](../master/data_governance.md)
+## Data and Governance
+### Quality of Advisor
+![image](../master/01.png)
+### Insufficient Feedback
+![image](../master/02.png)
+### What is the Right Metric?
+![image](../master/03.png)
+### Whose POV?
+![image](../master/04.png)
+### Delayed Feedback..
+![image](../master/05.png)
+### The Importance of Checklist
+![image](../master/06.png)
+### Microskills Profiling
+![image](../master/07.png)
+### Who am I?
+![image](../master/08.png)
+### The Power of Audits
+![image](../master/09.png)
+### Feedback to Behavior
 ![image](../master/10.png)
 
 
 
+
+---------------------------
 
 
 ## [Future of Governance](../master/governance_future.md) 
