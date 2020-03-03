@@ -12,7 +12,7 @@
 ## Data and Governance
 ### Quality of Advisor
 ![image](../master/01.png)
-### Insufficient Feedback
+### Is NPS sufficient?
 ![image](../master/02.png)
 ### What is the Right Metric?
 ![image](../master/03.png)
@@ -24,9 +24,9 @@
 ![image](../master/06.png)
 ### Microskills Profiling
 ![image](../master/07.png)
-### Who am I?
+### The Power of Audits 
 ![image](../master/08.png)
-### The Power of Audits
+### Who am I?
 ![image](../master/09.png)
 ### Feedback to Behavior
 ![image](../master/10.png)
