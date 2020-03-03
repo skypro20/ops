@@ -11,7 +11,7 @@
 
 
 
-## Data and Governance
+## [Data and Governance](../master/data_governance.md) 
 ### Quality of Advisor
 <img src="../skypro20-attach/01.png" width="840" height="480" border="10" />
 
