@@ -47,6 +47,6 @@
 ### Feedback to Behavior
 <img src="../skypro20-attach/10.png" width="840" height="480" border="10" />
 
-                                                          HOW?
+                                                       THE HOW?
 
 
