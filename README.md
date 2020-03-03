@@ -7,29 +7,40 @@
 
 [![Future of Automation ](http://img.youtube.com/vi/CKNQqSCpIsw/0.jpg)](https://youtu.be/CKNQqSCpIsw)
 
+(click to watch video ^^)
+
 
 
 ## Data and Governance
 ### Quality of Advisor
-![image](../master/01.png)
+<img src="../skypro20-attach/01.png" width="630" height="360" border="10" />
+
 ### Is NPS sufficient?
-![image](../master/02.png)
+<img src="../skypro20-attach/02.png" width="630" height="360" border="10" />
+
 ### What is the Right Metric?
-![image](../master/03.png)
+<img src="../skypro20-attach/03.png" width="630" height="360" border="10" />
+
 ### Whose POV?
-![image](../master/04.png)
+<img src="../skypro20-attach/04.png" width="630" height="360" border="10" />
+
 ### Delayed Feedback..
-![image](../master/05.png)
+<img src="../skypro20-attach/05.png" width="630" height="360" border="10" />
+
 ### The Importance of Checklist
-![image](../master/06.png)
+<img src="../skypro20-attach/06.png" width="630" height="360" border="10" />
+
 ### Microskills Profiling
-![image](../master/07.png)
+<img src="../skypro20-attach/07.png" width="630" height="360" border="10" />
+
 ### The Power of Audits 
-![image](../master/08.png)
+<img src="../skypro20-attach/08.png" width="630" height="360" border="10" />
+
 ### Who am I?
-![image](../master/09.png)
+<img src="../skypro20-attach/09.png" width="630" height="360" border="10" />
+
 ### Feedback to Behavior
-![image](../master/10.png)
+<img src="../skypro20-attach/10.png" width="630" height="360" border="10" />
 
 
 
